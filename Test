@@ -2,9 +2,9 @@
   "betaTesting": true,
   "playerIds": [
     "PLAYFAB_ID_HERE",
-    "ANOTHER_PLAYFAB_ID"
+    "ANOTHER_PLAYFAB_ID",
     "PLAYFAB_ID_HERE",
-    "ANOTHER_PLAYFAB_ID"
+    "ANOTHER_PLAYFAB_ID",
     "ANOTHER_PLAYFAB_ID"
   ]
 }
